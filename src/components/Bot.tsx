@@ -183,7 +183,8 @@ export type LeadsConfig = {
   successMessage?: string;
 };
 
-const defaultWelcomeMessage = "Hi there! Ready to find the perfect car? I'm here to help! \u202Bمرحبًا! هل أنت مستعد للعثور على السيارة المثالية؟ أنا هنا لمساعدتك\u202C";
+const defaultWelcomeMessage =
+  "Hi there! Ready to find the perfect car? I'm here to help! \u202Bمرحبًا! هل أنت مستعد للعثور على السيارة المثالية؟ أنا هنا لمساعدتك\u202C";
 
 /*const sourceDocuments = [
     {
