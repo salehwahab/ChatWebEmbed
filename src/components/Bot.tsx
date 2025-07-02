@@ -184,7 +184,7 @@ export type LeadsConfig = {
 };
 
 const defaultWelcomeMessage =
-  "Hi there! Ready to find the perfect product? I'm here to help! \u202Bمرحبًا! هل أنت مستعد للعثور على المنتج المثالي؟ أنا هنا لمساعدتك\u202C";
+  "Hi, how can I help you today. \u202Bمرحبًا! كيف يمكنني مساعدتك اليوم\u202C";
 
 /*const sourceDocuments = [
     {
